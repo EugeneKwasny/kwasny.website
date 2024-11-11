@@ -102,7 +102,7 @@ export default function About() {
         </div>
         <div className="lg:pl-20">
           <ul role="list">
-            <SocialLink href="https://x.com/AlgorithmTrail" icon={TwitterIcon}>
+            <SocialLink href="https://x.com/EugeneKwasny" icon={TwitterIcon}>
               Follow on Twitter
             </SocialLink>
             {/* <SocialLink href="#" icon={InstagramIcon} className="mt-4">
